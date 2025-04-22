@@ -2,7 +2,7 @@
 - 👀 I'm a Bioinformatics enthusiast and MSc student at the University of Glasgow with hands-on experience in **NGS data analysis**, **multi-omics research**, and **computational biology**.
 - 🌱 I’m currently diving deep into **Python**, **R**, **SQL**, and **Bash**, while also exploring everything from genomics to systems biology.
 -🔬 My recent work includes:
- 🧬 Ancestry inference using 23andMe data at [Oak Bioinformatics LLC](https://oakvar.com/)
+🧬 Ancestry inference using 23andMe data at [Oak Bioinformatics LLC](https://oakvar.com/)
   🧫 Stem-specific transcription research in *Schistosoma mansoni*
   💊 Mechanism of Amphotericin B resistance in *Leishmania mexicana*
  🧠 Studying the neuroprotective effect of Oleuropein in Parkinsonian mice
