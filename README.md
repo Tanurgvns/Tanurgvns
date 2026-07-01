@@ -1,41 +1,42 @@
-# 👋 Hi, I'm Tanushka Raghuvanshi (@Tanurgvns)
+# Hi, I'm Tanushka Raghuvanshi 👋
 
-🎓 MSc Bioinformatics graduate with a strong interest in computational biology, genomics, transcriptomics, and multi-omics data analysis.
+MSc Bioinformatics graduate with an interest in computational biology and the application of bioinformatics methods to investigate biological questions. I enjoy working with genomic and transcriptomic datasets, developing reproducible analysis workflows, and applying programming to biological research.
 
-👀 I'm interested in:
-- Bioinformatics
+## Research Interests
+
 - Computational Biology
+- Bioinformatics
+- Genomics
 - Transcriptomics
 - Single-cell RNA Sequencing
-- Multi-omics Integration
-- Genomics
-- Data Visualization
+- Multi-omics Data Analysis
+- Biological Data Visualisation
 
-🌱 I'm currently learning:
+## Current Focus
+
+I am currently expanding my skills in:
+
 - Advanced RNA-seq analysis
 - Single-cell transcriptomics
-- Machine Learning for Biological Data
+- Machine learning for biological data
 - Bioinformatics workflow development
 
-💻 Technical Skills:
-- Python
-- R
-- SQL
-- Bash
-- Linux
-- Git & GitHub
-- Streamlit
+## Technical Skills
 
-💞️ I'm always happy to collaborate on bioinformatics research, computational biology, and open-source scientific software.
+**Programming:** Python, R, SQL, Bash
 
-📫 How to reach me
+**Operating Systems:** Linux
 
-📧 Email: tanushka.raghuvanshi@outlook.com
+**Tools:** Git, GitHub, Streamlit
 
-💼 LinkedIn:
-https://www.linkedin.com/in/tanushka30/
+## Collaboration
 
-😄 Pronouns: She/Her
+I am interested in collaborating on bioinformatics research, computational biology projects, and open-source scientific software.
 
-⚡ Fun fact:
-I enjoy learning new computational approaches and applying them to answer biological research questions.
+## Contact
+
+Email: **tanushka.raghuvanshi@outlook.com**
+
+LinkedIn: https://www.linkedin.com/in/tanushka30/
+
+Pronouns: She/Her
